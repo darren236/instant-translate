@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Shows solid, touch-through English translations over Chinese text in other apps. Does not read the accessibility view hierarchy or perform gestures.</string>
+</resources>

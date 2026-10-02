@@ -1,0 +1,16 @@
+# Local build state and signing material
+work/
+outputs/
+**/build/
+**/.gradle/
+**/local.properties
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# Editor and OS metadata
+.DS_Store
+.idea/
+*.iml
+*.log
